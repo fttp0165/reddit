@@ -1,0 +1,2 @@
+module RadditsHelper
+end
